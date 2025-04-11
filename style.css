@@ -47,7 +47,7 @@ section.recipe, section.about {
 }
 
 .recipe img, .about img {
-  width: 100%;
+  width: 200px;
   border-radius: 8px;
   margin-bottom: 20px;
 }
